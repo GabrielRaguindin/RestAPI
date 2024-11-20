@@ -8,6 +8,7 @@ A Login and Signup Webpage using RESTful API Architecture.
 - Node.js
 - Postman
 - Axios
+- MySQL
 
 ## Login Page
 ![image](https://github.com/user-attachments/assets/b5123e49-8f18-43c6-ae4d-0a52dff662b0)
